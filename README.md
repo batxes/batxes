@@ -10,7 +10,6 @@ I'm Ibai Irastorza. I am a Data Scientist and Engineer with a computer science b
 <p>  
     <img alt="Python" src="https://img.shields.io/badge/-Python-ffde57?style=flat-square&logo=Python&logoColor=white" /> 
 </p>
-Jupyter Notebook = Python 😊 but also sometimes Julia
 
 ![Readme Card 1](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=batxes&hide=Mathematica,html)
 ![Readme Card 2](https://github-readme-stats-sigma-five.vercel.app/api?username=batxes&show_icons=true&theme=transparent)
